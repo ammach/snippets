@@ -1,4 +1,5 @@
-# snippets
-bouts de code ou composants réutilisables
+# Snippets
 
-readme.md = sommaire + dossiers 
+Bouts de code utiles dans le cadre du développement web.
+
+Voir aussi les [Guidelines](https://github.com/alsacreations/guidelines) pour les bonnes pratiques générales.
